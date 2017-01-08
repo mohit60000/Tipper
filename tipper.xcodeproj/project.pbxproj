@@ -36,7 +36,7 @@
 /* Begin PBXFileReference section */
 		D32A921B1DE3D93800E0CF9A /* tipper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipper.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D32A921E1DE3D93800E0CF9A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D32A92201DE3D93800E0CF9A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D32A92201DE3D93800E0CF9A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; usesTabs = 0; };
 		D32A92231DE3D93800E0CF9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D32A92251DE3D93800E0CF9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D32A92281DE3D93800E0CF9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -503,6 +503,7 @@
 				D32A92451DE3D93800E0CF9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D32A92461DE3D93800E0CF9A /* Build configuration list for PBXNativeTarget "tipperTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +512,7 @@
 				D32A92481DE3D93800E0CF9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D32A92491DE3D93800E0CF9A /* Build configuration list for PBXNativeTarget "tipperUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +521,7 @@
 				D32A924B1DE3D93800E0CF9A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
